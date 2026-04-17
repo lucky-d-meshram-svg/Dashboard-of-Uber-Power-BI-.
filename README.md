@@ -6,7 +6,8 @@
 <img width="984" height="555" alt="Home Page" src="https://github.com/user-attachments/assets/05e780ee-5aee-42f9-bcdd-777367b66f70" />
 
 ### Overview Page  
-![Overview Dashboard](Capture2.PNG)
+<img width="1009" height="560" alt="Overview" src="https://github.com/user-attachments/assets/a7fcd92b-c414-4644-9249-44050ef29ac4" />
+
 
 ## 📌 Overview  
 This project is an interactive dashboard built using Power BI to analyze Uber ride data. It provides clear insights into bookings, revenue, distance, and ratings.
