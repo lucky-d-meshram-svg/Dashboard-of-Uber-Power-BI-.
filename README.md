@@ -3,7 +3,8 @@
 ## 📷 Dashboard Preview  
 
 ### Home Page  
-![<img width="1009" height="560" alt="Overview" src="https://github.com/user-attachments/assets/5f313040-c7bc-458f-a757-a1f5404c6dff" />](Capture.PNG)
+<img width="984" height="555" alt="Home Page" src="https://github.com/user-attachments/assets/05e780ee-5aee-42f9-bcdd-777367b66f70" />
+
 ### Overview Page  
 ![Overview Dashboard](Capture2.PNG)
 
