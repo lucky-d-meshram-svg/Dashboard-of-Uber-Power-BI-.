@@ -3,10 +3,9 @@
 ## 📷 Dashboard Preview  
 
 ### Home Page  
-Capture(Capture.PNG)
-
+![Capture](Capture.PNG)
 ### Overview Page  
-![C:\Users\Lucky\Documents\PY](Capture2.PNG)
+![Overview Dashboard](Capture2.PNG)
 
 ## 📌 Overview  
 This project is an interactive dashboard built using Power BI to analyze Uber ride data. It provides clear insights into bookings, revenue, distance, and ratings.
