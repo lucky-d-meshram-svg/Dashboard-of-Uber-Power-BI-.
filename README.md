@@ -3,8 +3,7 @@
 ## 📷 Dashboard Preview  
 
 ### Home Page  
-![<img width="984" height="555" alt="Capture" src="https://github.com/user-attachments/assets/6f68de36-51a9-4e64-9833-5baea79074d5" />
-](Capture.PNG)
+Capture(Capture.PNG)
 
 ### Overview Page  
 ![Overview Dashboard](Capture2.PNG)
