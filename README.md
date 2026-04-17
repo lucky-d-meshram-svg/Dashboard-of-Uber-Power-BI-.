@@ -1,9 +1,10 @@
-# 📊 Uber Dashboard (Power BI)
+<img width="1009" height="560" alt="Overview" src="https://github.com/user-attachments/assets/5f313040-c7bc-458f-a757-a1f5404c6dff" /># 📊 Uber Dashboard (Power BI)
 
 ## 📷 Dashboard Preview  
 
 ### Home Page  
-![Capture](Capture.PNG)
+![![Uploading Home Page.PNG…]()
+](Capture.PNG)
 ### Overview Page  
 ![Overview Dashboard](Capture2.PNG)
 
