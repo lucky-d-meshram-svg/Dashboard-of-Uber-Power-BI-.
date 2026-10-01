@@ -2,12 +2,8 @@
 
 ## 📷 Dashboard Preview  
 
-### Home Page  
-<img width="984" height="555" alt="Home Page" src="https://github.com/user-attachments/assets/05e780ee-5aee-42f9-bcdd-777367b66f70" />
-
-### Overview Page  
-<img width="1009" height="560" alt="Overview" src="https://github.com/user-attachments/assets/a7fcd92b-c414-4644-9249-44050ef29ac4" />
-
+### Uber Dashboard  
+<img width="975" height="544" alt="Home Page" src="https://github.com/user-attachments/assets/7e216b9f-4c73-42a3-ac55-28d2fd51439c" />
 
 ## 📌 Overview  
 This project is an interactive dashboard built using Power BI to analyze Uber ride data. It provides clear insights into bookings, revenue, distance, and ratings.
